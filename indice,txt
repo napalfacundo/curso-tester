@@ -1,0 +1,105 @@
+### Índice de Clases y Actividades del Curso de Testing
+
+#### **Clase 1: Introducción a las Pruebas de Calidad**
+- **Contenido:**
+  1. Definición de prueba de calidad y objetivos.
+  2. Tipos de pruebas: funcionales, no funcionales, manuales, automatizadas.
+  3. Niveles de pruebas: unitarias, de integración, de sistema, de aceptación.
+- **Actividades:**
+  - Discusión en grupo sobre la importancia de las pruebas de calidad.
+  - Análisis de un caso de estudio real para identificar tipos de pruebas aplicadas.
+- **Recursos Necesarios:**
+  - Presentación con definiciones y ejemplos.
+  - Acceso a un caso de estudio (documentación de un proyecto real).
+
+#### **Clase 2: Estrategias de Pruebas y Diseño de Casos de Prueba**
+- **Contenido:**
+  1. Estrategias de pruebas: top-down, bottom-up, big bang, incremental.
+  2. Diseño de casos de prueba en función de casos de uso y especificaciones funcionales.
+- **Actividades:**
+  - Ejercicio práctico de diseño de casos de prueba basados en un caso de uso específico.
+  - Análisis comparativo de diferentes estrategias de pruebas.
+- **Recursos Necesarios:**
+  - Herramientas de documentación como Excel o herramientas de gestión de pruebas.
+  - Ejemplos de especificaciones funcionales.
+
+#### **Clase 3: Documentación de Pruebas**
+- **Contenido:**
+  1. Tipos de documentación: Plan de pruebas, Registro de incidencias, Informe de pruebas.
+  2. Creación y mantenimiento de documentación de pruebas.
+- **Actividades:**
+  - Redacción de un plan de pruebas para un caso de estudio.
+  - Análisis de diferentes tipos de documentación de pruebas.
+- **Recursos Necesarios:**
+  - Plantillas de documentación de pruebas.
+  - Ejemplos de documentación de pruebas de proyectos reales.
+
+#### **Clase 4: Tipos de Pruebas – Pruebas de Caja Negra**
+- **Contenido:**
+  1. Pruebas de caja negra: instalación, usabilidad/navegabilidad, rendimiento (carga, performance, stress), automatizadas.
+  2. Ejecución de las pruebas de caja negra.
+- **Actividades:**
+  - Aplicación práctica de una prueba de caja negra en un software o sistema dado.
+  - Discusión sobre las ventajas y desventajas de cada tipo de prueba.
+- **Recursos Necesarios:**
+  - Software o sistema para pruebas.
+  - Herramientas de automatización de pruebas (como Selenium).
+
+#### **Clase 5: Ejecución de Pruebas Unitarias e Integración**
+- **Contenido:**
+  1. Pruebas unitarias: definición y aplicación.
+  2. Pruebas de integración: definición y aplicación.
+  3. Comparación entre pruebas unitarias y de integración.
+- **Actividades:**
+  - Implementación de pruebas unitarias usando un framework (por ejemplo, JUnit).
+  - Realización de pruebas de integración en un entorno simulado.
+- **Recursos Necesarios:**
+  - Frameworks de pruebas unitarias e integración.
+  - Proyecto de ejemplo para aplicar las pruebas.
+
+#### **Clase 6: Identificación y Reporte de Errores**
+- **Contenido:**
+  1. Técnicas de identificación de errores.
+  2. Reporte de errores y su seguimiento.
+- **Actividades:**
+  - Taller práctico sobre cómo identificar errores en un software dado.
+  - Redacción de reportes de errores con herramientas como JIRA.
+- **Recursos Necesarios:**
+  - Software para pruebas.
+  - Acceso a una herramienta de gestión de errores (como JIRA).
+
+#### **Clase 7: Control de Versiones en el Contexto de Pruebas**
+- **Contenido:**
+  1. Importancia del control de versiones en pruebas.
+  2. Herramientas de control de versiones (Git).
+- **Actividades:**
+  - Ejercicio de control de versiones aplicadas a scripts de pruebas.
+  - Análisis de un flujo de trabajo típico con Git en un proyecto de pruebas.
+- **Recursos Necesarios:**
+  - Repositorio Git.
+  - Proyecto de ejemplo para versionado.
+
+#### **Clase 8: Herramientas de Pruebas y Gestión**
+- **Contenido:**
+  1. Herramientas de pruebas, herramientas de stress y herramientas de gestión.
+  2. Comparación y selección de herramientas.
+- **Actividades:**
+  - Presentación de diferentes herramientas de pruebas.
+  - Comparativa entre herramientas de automatización y gestión de pruebas.
+- **Recursos Necesarios:**
+  - Acceso a herramientas de prueba y gestión (como Selenium, JIRA, JMeter).
+  - Ejemplos prácticos de uso de las herramientas.
+
+### **Lista de Recursos Necesarios**
+1. **Software y Herramientas:**
+   - Selenium, JUnit, JIRA, Git, JMeter.
+2. **Documentación:**
+   - Plantillas de plan de pruebas, registro de incidencias, informes de pruebas.
+   - Especificaciones funcionales y casos de uso.
+3. **Proyectos y Casos de Estudio:**
+   - Proyectos de software reales o simulados para la aplicación práctica.
+4. **Material de Apoyo:**
+   - Presentaciones con teoría y ejemplos.
+   - Acceso a documentación de proyectos anteriores.
+
+Este curso combina teoría y práctica, permitiendo a los estudiantes adquirir habilidades concretas en el ámbito del testing, preparando documentos, ejecutando pruebas, identificando errores y utilizando herramientas de mercado.
